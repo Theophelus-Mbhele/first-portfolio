@@ -1,0 +1,76 @@
+
+/* general information */
+#general-info{
+    margin-bottom: 50px;
+}
+.nav-namecontainer{
+    background-color:#0081C9 ;
+} 
+.nav-picturecontainer{
+    background-color: #FFC93C;
+}
+img{
+    margin: 100px;  
+}
+.text{
+    margin-top: 100px;
+    font-family: 'Merriweather', serif;
+    color:#FFC93C ;
+    margin-left: 20px;
+} 
+.text1{
+    color:#FFC93C ;
+    margin-left: 20px;
+}
+/* end of general information */
+
+/* skills and talents */
+.skillz{
+    text-align: center;
+    background-color:#fFF;
+}
+.skills-and-talents{
+    margin-bottom: 100px;
+}
+
+/* end of .skills-and-talents */
+
+
+h3{
+   color: #FFC93C; 
+   font-weight: 900;
+}
+h2{
+    color: #0081C9;
+}
+
+/* get in touch section */
+.getintouch{
+    background-color:#0081C9 ;
+    text-align: center;
+    color: #fFF;
+    margin-bottom: 30px;
+    
+}
+.get{
+    margin-top: 20px;
+    color: #FFC93C;
+}
+.btn{
+    margin-top:10px ;
+    margin-bottom: 30px;
+}
+.contact-message{
+    color: rgb(0, 0, 0);
+}
+/* end of get in touch */
+
+/* footer */
+.footer{
+    margin-top:30px ;
+    text-align: center;
+}
+
+svg{
+    margin: 10px 10px 30px;
+}
